@@ -1,3 +1,6 @@
+use cp_rust::init_0;
+
 fn main() {
-    println!("Hello, world!");
+
+    init_0();
 }
