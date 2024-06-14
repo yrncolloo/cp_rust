@@ -1,1 +1,0 @@
-/home/yrncollo/Desktop/rust_practice/cli-tools/cp_rust/target/debug/libcp_rust.rlib: /home/yrncollo/Desktop/rust_practice/cli-tools/cp_rust/src/cli_build.rs /home/yrncollo/Desktop/rust_practice/cli-tools/cp_rust/src/lib.rs
